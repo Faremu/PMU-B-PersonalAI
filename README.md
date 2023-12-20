@@ -1,9 +1,9 @@
 # PMU-B-PersonalAI
 ### 1. xPore: An AI-Powered App for Bioinformaticians 
-  - Note [Link!]
+  - Note [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Note_Xpore.pdf)
   - Homework [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Homework%20Xpore%20GMM.ipynb)
 ### 2. Learning from Biosignal
-  - Note [Link!]
+  - Note [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Note_Biosignal.pdf)
   - Homework [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Homework_Biosignal_model.py)
 ### 3. AI for detecting code plagiarism
   - Note [Link!]
