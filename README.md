@@ -16,5 +16,5 @@
   - Homework [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Homework_Mental_E_san_coding.ipynb)
 ### 6. AI for arresting criminals
   - Note [Link!]
-  - Homework [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Homework%20Xpore%20GMM.ipynb)
+  - Homework [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Homework_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)
 
