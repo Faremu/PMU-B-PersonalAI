@@ -20,4 +20,4 @@
 
 
 # Presentaion video.
-[![Watch the video](http://img.youtube.com/vi/QSMNyv6QeW0/sddefault.jpg)](https://youtu.be/QSMNyv6QeW0)
+[<img src="cover.jpg" alt="drawing" width="300"/>](https://youtu.be/QSMNyv6QeW0)
