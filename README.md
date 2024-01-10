@@ -18,4 +18,4 @@
   - Note [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Note_Criminal.pdf)
   - Homework [Link!](https://github.com/Faremu/PMU-B-PersonalAI/blob/main/Homework_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb)
 
-[![Watch the video](http://img.youtube.com/vi/QSMNyv6QeW0.jpg)](https://youtu.be/QSMNyv6QeW0)
+[![Watch the video](http://img.youtube.com/vi/QSMNyv6QeW0/0.jpg)](https://youtu.be/QSMNyv6QeW0)
